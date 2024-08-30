@@ -95,5 +95,5 @@ Based on the type of industry, the top five indutries to watch out for with frau
 3.Real-Time Fraud Detection: Investigating the feasibility of real-time fraud detection on the platform. This would involve analyzing the trade-offs between model complexity, performance, and the need for immediate response to potentially fraudulent activity.
 
 ### For more Information
-See the full analysis [Jupyter Notebook](Fraudulent_Job_Postings_Analysis_Presentation.ipynb)  or review the  [Presentation](Fraudulent_Job_Postings_Analysis_Presentation.pdf)
+See the full analysis [Jupyter Notebook](Job_Fraud_Detection_Analysis.ipynb) or review the  [Presentation](Fraudulent_Job_Postings_Analysis_Presentation.pdf)
 
